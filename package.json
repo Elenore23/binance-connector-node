@@ -44,7 +44,7 @@
     "src/**/*"
   ],
   "dependencies": {
-    "axios": "^1.6",
+    "axios": "^1.7.8",
     "ws": "^8.14"
   },
   "jest": {
